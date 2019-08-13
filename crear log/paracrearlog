@@ -1,0 +1,6 @@
+para crear un log:
+./script.sh >> log.csv
+
+para visualizar el log en tiempo real: 
+tail -f log.txt
+
